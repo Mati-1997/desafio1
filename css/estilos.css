@@ -1,0 +1,9 @@
+body {
+  font-family: "Courier New", Courier, monospace;
+  background-image: url("../img/background.jpg");
+  background-size: cover;
+}
+
+h2 {
+  color: white;
+}
