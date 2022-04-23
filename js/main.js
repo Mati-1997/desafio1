@@ -1,6 +1,6 @@
 /* 
 En un local que fabrica muebles se ha recibido un pedido de 20 tablas de madera de un proveedor.
-Se ha realizado este programa para ingresar las medidas de cada una, controlar cuantas tablas tienen una medida mayor a 4 metros y ademas contar cuantas cumplen esa condicion
+Se ha realizado este programa para que el usuario ingrese las medidas de cada una, controlar cuantas tablas tienen una medida mayor a 4 metros y ademas contar cuantas cumplen esa condicion.
 */
 
 const N = 20;

@@ -5,5 +5,9 @@ body {
 }
 
 h2 {
-  color: white;
+  font-size: xx-large;
+}
+
+div {
+  width: 300px;
 }
