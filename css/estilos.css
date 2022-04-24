@@ -1,11 +1,15 @@
 body {
-  font-family: "Courier New", Courier, monospace;
-  background-image: url("../img/background.jpg");
+  background-image: url("../img/background2.jpg");
   background-size: cover;
 }
 
-h2 {
-  font-size: xx-large;
+h1 {
+  font-style: italic;
+}
+
+h2,
+p {
+  color: white;
 }
 
 div {
