@@ -7,7 +7,7 @@ const N = 20;
 let contador = 0;
 
 for (i = 1; i <= N; i++) {
-  let medida = prompt("Ingrese una medida");
+  let medida = prompt("Ingrese una medida (en metros)");
   console.log("La medida ingresada es " + medida);
   if (medida > 0) {
     if (medida > 4) contador++;
